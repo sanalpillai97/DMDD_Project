@@ -4,9 +4,9 @@ This repository includes the Project files related to "Database Management and D
 Project Title : City Tram Conveyance Management System
 
 Group Members:
-Sriram Raju Venkatesh
-Siddharth Pawar
-Sanal Pillai
-Ramy Solanki
+Sriram Raju Venkatesh,
+Siddharth Pawar,
+Sanal Pillai,
+Ramy Solanki,
 Rishabh Patel
 
